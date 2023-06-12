@@ -11,5 +11,5 @@
 - Install the required libraries, packages, and modules by executing the following command:
 `pip install -r requirements.txt`
 
-Sneakpeek 👀
+## Sneakpeek 👀
 ![grid](https://github.com/csalbao/Brushstrokes_and_Backpropagation/assets/53087620/0f274574-1128-4132-b002-af9d96a1caf9)
